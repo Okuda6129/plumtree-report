@@ -1,0 +1,11 @@
+# IDE related files
+.idea/
+.settings/
+.vscode/
+bin/
+.classpath
+.project
+
+# Gradle related files
+.gradle/
+build/
